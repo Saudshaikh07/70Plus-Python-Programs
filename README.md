@@ -1,2 +1,2 @@
-# 100-Python-Programs
+# 70Plus-Python-Programs
 This Github repository is for adding the python programs that I learned.
